@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+yfinance
+sqlalchemy
+pytest
+pydantic
+pydantic-settings
+scalar-fastapi
+aiosqlite
+python-json-logger
+pytest
+pytest-asyncio
+httpx
