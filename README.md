@@ -79,7 +79,7 @@ Verifies application and database connectivity.
 
 ## Architecture Summary
 
-![Architecture Diagram](arch_image/architecture-diagram.png)
+![Architecture Diagram](arch_image/architecture.png)
 
 ---
 
