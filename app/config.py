@@ -20,6 +20,8 @@ class Settings(BaseSettings):
             if (v.startswith('"') and v.endswith('"')) or (v.startswith("'") and v.endswith("'")):
                 return v[1:-1]
         return v
-
+    
+    def realfun():
+        pass
 
 settings = Settings()
